@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+<block id="nav_about">
+  <fr>À propos</fr>
+  <en>About</en>
+  <ar>من أنا</ar>
+</block>
+
+<block id="nav_education">
+  <fr>Parcours</fr>
+  <en>Education</en>
+  <ar>المسار الدراسي</ar>
+</block>
+
+<block id="nav_projects">
+  <fr>Projets</fr>
+  <en>Projects</en>
+  <ar>المشاريع</ar>
+</block>
+
+<block id="nav_ws">
+  <fr>Web sémantique</fr>
+  <en>Semantic Web</en>
+  <ar>الويب الدلالي</ar>
+</block>
+
+<block id="nav_contact">
+  <fr>Contact</fr>
+  <en>Contact</en>
+  <ar>تواصل</ar>
+</block>
+
+  <block id="about_title">
+    <fr>Qui suis-je ?</fr>
+    <en>Who am I ?</en>
+    <ar>من أنا</ar>
+</block>
+
+<block id="about_intro">
+  <fr>Je suis Yasmine Khallaayoune, actuellement alternante chez EDF en tant que Data Analyst. Passionnée par la technologie, je construis des solutions numériques utiles et accessibles.</fr>
+  <en>I am Yasmine Khallaayoune, currently a Data Analyst apprentice at EDF. Passionate about technology, I build useful and accessible digital solutions.</en>
+  <ar>أنا ياسمين خلايون، أعمل حالياً كمتدربة في تطوير الويب لدى EDF. شغوفة بالتكنولوجيا وأصنع حلولاً رقمية مفيدة وسهلة الوصول.</ar>
+</block>
+ 
+<block id="education_title">
+  <fr>Parcours scolaire</fr>
+  <en>Educational Background</en>
+  <ar>المسار الدراسي</ar>
+</block>
+
+<block id="edu_1">
+  <fr>Sup Galilée, Villetaneuse (2023–2026) – Formation d’ingénieur en informatique</fr>
+  <en>Sup Galilée, Villetaneuse (2023–2026) – Engineering degree in Computer Science</en>
+  <ar>سوب غاليلي، فيلتانوز (2023–2026) – تكوين مهندس في علوم الحاسوب</ar>
+</block>
+
+<block id="edu_2">
+  <fr>INSA Rennes (2022–2023) – Préparation au diplôme d’ingénieur en informatique</fr>
+  <en>INSA Rennes (2022–2023) – Engineering preparation in Computer Science</en>
+  <ar>إنسا رين (2022–2023) – تحضير لشهادة مهندس في المعلوماتية</ar>
+</block>
+
+<block id="edu_3">
+  <fr>Koutoubia Prépas, Marrakech (2019–2022) – Classes préparatoires MPSI/MP</fr>
+  <en>Koutoubia Prépas, Marrakech (2019–2022) – Preparatory classes MPSI/MP</en>
+  <ar>معهد كوتوبيا، مراكش (2019–2022) – أقسام تحضيرية MPSI/MP</ar>
+</block>
+
+<block id="projects_title">
+  <fr>Projets réalisés</fr>
+  <en>Completed Projects</en>
+  <ar>المشاريع المنجزة</ar>
+</block>
+
+<block id="project_1">
+  <fr>Développement d'une messagerie client-serveur en C avec base de données MySQL. Projet encadré à Sup Galilée.</fr>
+  <en>Developed a client-server messaging system in C with MySQL database. Supervised project at Sup Galilée.</en>
+  <ar>تطوير نظام رسائل عميل-خادم بلغة C وقاعدة بيانات MySQL. مشروع تحت إشراف في سوب غاليلي.</ar>
+</block>
+
+<block id="project_2">
+  <fr>Programmation d'un sapin LED 3D avec Unity et Raspberry Pi. Animation de 500 LEDs individuellement adressables.</fr>
+  <en>3D LED tree animation using Unity and Raspberry Pi. Controlled 500 addressable LEDs.</en>
+  <ar>برمجة شجرة ثلاثية الأبعاد باستخدام Unity و Raspberry Pi مع التحكم بـ500 مصباح LED.</ar>
+</block>
+
+<block id="project_3">
+  <fr>Création d'un site web pour un groupe parlementaire marocain en PHP avec interface d'administration.</fr>
+  <en>Developed a website for a Moroccan parliamentary group in PHP with admin interface.</en>
+  <ar>إنشاء موقع إلكتروني لمجموعة برلمانية مغربية باستخدام PHP مع واجهة إدارة.</ar>
+</block>
+
+<block id="ws_title">
+  <fr>Projet Web Sémantique</fr>
+  <en>Semantic Web Project</en>
+  <ar>مشروع الويب الدلالي</ar>
+</block>
+
+<block id="ws_intro">
+  <fr>Ce portfolio est le résultat d’un projet de web sémantique. Il met en œuvre les standards tels que RDFa, XML, HTML5, et l’accessibilité multilingue.</fr>
+  <en>This portfolio is the result of a semantic web project. It applies standards like RDFa, XML, HTML5, and multilingual accessibility.</en>
+  <ar>هذا الموقع هو نتيجة مشروع ويب دلالي، يستخدم معايير مثل RDFa و XML و HTML5 وإتاحة الوصول بلغات متعددة.</ar>
+</block>
+
+<block id="ws_applied">
+  <fr>Le contenu textuel est séparé sous forme de fichiers XML. Les balises RDFa sont utilisées pour enrichir le HTML avec du sens, ce qui améliore l’accessibilité et le référencement.</fr>
+  <en>Text content is separated in XML files. RDFa tags are used to enrich HTML with meaning, enhancing accessibility and searchability.</en>
+  <ar>تم فصل المحتوى النصي في ملفات XML، واستخدام علامات RDFa لإعطاء معنى لـ HTML، مما يحسن الوصول والفهرسة.</ar>
+</block>
+
+<block id="contact_title">
+  <fr>Contact</fr>
+  <en>Contact</en>
+  <ar>تواصل</ar>
+</block>
+
+<block id="contact_email">
+  <fr>Vous pouvez me contacter à cette adresse :</fr>
+  <en>You can contact me at this address:</en>
+  <ar>يمكنك التواصل معي على هذا البريد:</ar>
+</block>
+
+<block id="contact_linkedin">
+  <fr>Retrouvez-moi sur LinkedIn</fr>
+  <en>Find me on LinkedIn</en>
+  <ar>تابعني على لينكدإن</ar>
+</block>
+
+<block id="contact_github">
+  <fr>Mes projets sur GitHub</fr>
+  <en>My projects on GitHub</en>
+  <ar>مشاريعي على GitHub</ar>
+</block>
+
+
+
+</translations>
